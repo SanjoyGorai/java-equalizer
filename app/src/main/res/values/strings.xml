@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java Equalizer</string>
+    <string name="eq">Equalizer</string>
+    <string name="show_eq_dialog">Show EQ Dialog</string>
+</resources>
